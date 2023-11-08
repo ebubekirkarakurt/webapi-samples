@@ -1,7 +1,6 @@
 # Hafta 01 
 
 
-
 * API Kavramı
 * API Neden İhtiyaç var?
 * Yazılım Mühendisliğinde API Yeri ve Kullanım Alanları
@@ -30,6 +29,20 @@
 
 * Dependency Injection
 * Inversion of Control
+
+# Hafta 05 
+
+* Postman
+* Thunder Client
+* IActionResult
+
+# Hafta 06 
+
+* try-catch block
+* ErrorModel
+* NotFoundException
+
+
 
 # Referans Eğitimler 
 * [BTK Akademi - ASP.NET Core Web API](https://www.btkakademi.gov.tr/portal/course/asp-net-core-web-api-23993)
