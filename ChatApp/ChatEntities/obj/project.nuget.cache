@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w1p4suCo0FbgsTVZxT2v38P1jkaDrXXDHyFf0MZ7R9/i6WGi+8YDLtgOFNfAqI4gUqAjht5sEI54cdYJzB5piA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ebuka\\Desktop\\MYAZ-201\\ChatApp\\ChatEntities\\ChatEntities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ebuka\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ebuka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\ebuka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
